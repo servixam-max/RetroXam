@@ -2,16 +2,20 @@
 
 **Lista curada de los mejores juegos retro — prioridad español — para PC/Android (RetroBat y similares).**
 
-35 sistemas, ~4.400 juegos, en formato **JSONL oficial** (el mismo que usan las apps tipo Arley4d):
+36 sistemas, **~2.460 juegos** seleccionados *"lo mejor de lo mejor"* (curaduría 15-oct-2026), en formato **JSONL oficial** (el mismo que usan las apps tipo Arley4d):
 cada línea describe un juego con sus URLs de descarga, tamaño y metadatos.
 
 ## Qué hay dentro
 
-- **35 sistemas**: NES, SNES, GB/GBC/GBA, N64, Mega Drive/CD/32X, PSX, PS2, PS3, PSP, PSVita,
+- **36 sistemas**: NES, SNES, GB/GBC/GBA, N64, Mega Drive/CD/32X, PSX, PS2, PS3, PSP, PSVita,
   Saturn, Dreamcast, GameCube, Wii, WiiU, Switch, 3DS, NDS, Xbox, Xbox 360, Neo Geo,
   CPS1/2/3, FBNeo, Naomi, Naomi2, Atomiswave, Model 2/3, OpenBOR…
-- **~4.400 juegos** seleccionados por rankings reales (IGN, GamesRadar, Retro Sanctuary,
-  Metacritic…) y **priorizando versiones con español** cuando existen.
+- **~2.460 juegos**: imprescindibles de cada plataforma + gemas notables, con
+  **prioridad a las versiones en español**. Curaduría a fondo (15-oct-2026): fuera relleno,
+  anuales de deportes, karaoke/baile, demos/betas y duplicados de región.
+- **Arcades intactos**: MAME/FBNeo/CPS/Neo Geo/Naomi… se mantienen con sus ~1.700 mejores.
+- **Descarga directa siempre que es posible** (torrent solo para juegos grandes); enlaces verificados.
+- Subcarpetas por tipo conservadas (`Traducidas`, `3dscia`, `psp chd`, `PSX RIP (No Music)`…).
 - Formato **`.jsonl`** con finales de línea CRLF (compatible byte a byte con el formato oficial).
 
 ## Cómo usarla
